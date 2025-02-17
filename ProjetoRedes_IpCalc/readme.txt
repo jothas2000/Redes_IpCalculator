@@ -1,0 +1,1 @@
+Abrir a pasta no eclipse e depois run as java aplication no AuthIPServer e depois run as java aplication no AuthIPCliente
